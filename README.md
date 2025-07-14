@@ -1,4 +1,3 @@
-# paravia-notebooklm-dataset
 # Paravia Cataloghi QA Dataset
 
 Dataset per la valutazione delle capacità di information retrieval di Google NotebookLM sui cataloghi storici della Casa Editrice Paravia (1913-1978).
