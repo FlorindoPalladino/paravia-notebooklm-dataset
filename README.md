@@ -48,7 +48,7 @@ Se utilizzi questo dataset nella tua ricerca, cita come:
 
 ```
 Palladino, F. (2025). Cataloghi didattici Paravia (1913-1978): Dataset di valutazione per sistemi di information retrieval. 
-GitHub. https://github.com/FlorindoPalladino/paravia-notebooklm-dataset
+Zenodo. https://doi.org/10.5281/zenodo.16100127
 ```
 
 ## Licenza
