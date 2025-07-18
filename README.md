@@ -47,7 +47,7 @@ Il dataset è stato sviluppato nell'ambito della ricerca "Intelligenza artificia
 Se utilizzi questo dataset nella tua ricerca, cita come:
 
 ```
-Palladino, F. (2025). Cataloghi didattici Paravia (1913-1978): Dataset di valutazione per sistemi di information retrieval. 
+Palladino, F. (2025). Cataloghi didattici Paravia (1913-1978): Dataset di valutazione per sistemi RAG 
 Zenodo. https://doi.org/10.5281/zenodo.16100127
 ```
 
